@@ -1,0 +1,8 @@
+name = "Мирослава"
+secondname = "Кізим"
+age = 16
+list1 = ["Кізим Мирослава"]
+if type(name) == type(secondname):
+    print(type(name))
+if type(age) == int:
+    print(type(age))
